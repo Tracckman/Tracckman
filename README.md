@@ -11,7 +11,7 @@ I build data-driven SaaS products and internal tools with **React, TypeScript, S
 
 ## Selected work
 
-### Company Portal
+### [Company Portal](https://github.com/Tracckman/company-portal-case-study)
 
 A multi-department operating platform for sales, delivery, marketing, HR, training, QA, reporting, and executive oversight.
 
@@ -22,7 +22,7 @@ A multi-department operating platform for sales, delivery, marketing, HR, traini
 
 `React` `TypeScript` `Supabase` `PostgreSQL` `TanStack Query` `Tailwind CSS`
 
-> Private production case study. A sanitized walkthrough is being prepared.
+> Production source is private. [View the sanitized engineering case study →](https://github.com/Tracckman/company-portal-case-study)
 
 ### Funnel Analytics Dashboard
 
